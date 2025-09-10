@@ -18,3 +18,7 @@ choco install googlechrome -y
 ```powershell
 choco install nodejs-lts -y
 ```
+
+```powershell
+choco install git -y
+```
