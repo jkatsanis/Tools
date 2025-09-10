@@ -1,6 +1,6 @@
 # Chocolatey Setup and Software Installation
 
-Open **PowerShell as Administrator** and run the following commands:
+Open **PowerShell as Administrator** and run the following commands!:
 
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force
