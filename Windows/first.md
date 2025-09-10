@@ -21,4 +21,5 @@ choco install nodejs-lts -y
 
 ```powershell
 choco install git -y
+choco install gh -y
 ```
