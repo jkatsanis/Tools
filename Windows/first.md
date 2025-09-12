@@ -23,3 +23,8 @@ choco install nodejs-lts -y
 choco install git -y
 choco install gh -y
 ```
+
+```powershell
+ choco install nuget.commandline -y
+```
+
