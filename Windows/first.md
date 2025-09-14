@@ -45,6 +45,10 @@ choco install microsoft-office-deployment -y
 choco install cmake -y
 ```
 
+```powershell
+choco install paint.net -y
+```
+
 ## Important Commands
 
 ```powershell
