@@ -41,6 +41,10 @@ choco install wsl-ubuntu -y
 choco install microsoft-office-deployment -y
 ```
 
+```powershell
+choco install cmake -y
+```
+
 ## Important Commands
 
 ```powershell
