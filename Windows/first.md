@@ -34,6 +34,7 @@ choco install docker-desktop -y
 
 ```powershell
 choco install wsl -y
+choco install wsl-ubuntu -y
 ```
 
 
