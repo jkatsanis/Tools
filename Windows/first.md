@@ -37,6 +37,10 @@ choco install wsl -y
 choco install wsl-ubuntu -y
 ```
 
+```powershell
+choco install microsoft-office-deployment -y
+```
+
 ## Important Commands
 
 ```powershell
