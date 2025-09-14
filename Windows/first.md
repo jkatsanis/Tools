@@ -32,4 +32,10 @@ choco install gh -y
 choco install docker-desktop -y
 ```
 
+```powershell
+choco install wsl -y
+```
+
+
+
 
