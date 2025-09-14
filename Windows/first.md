@@ -28,3 +28,8 @@ choco install gh -y
  choco install nuget.commandline -y
 ```
 
+```powershell
+choco install docker-desktop -y
+```
+
+
