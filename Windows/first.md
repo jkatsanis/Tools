@@ -49,6 +49,10 @@ choco install cmake -y
 choco install paint.net -y
 ```
 
+```powershell
+choco install yarn -y
+```
+
 ## Important Commands
 
 ```powershell
