@@ -53,6 +53,9 @@ choco install paint.net -y
 choco install yarn -y
 ```
 
+```powershell
+choco install nvm -y
+```
 ## Important Commands
 
 ```powershell
