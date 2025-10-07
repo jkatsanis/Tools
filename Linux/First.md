@@ -85,6 +85,15 @@ sudo apt install cmake
 sudo apt install build-essential cmake libx11-dev libxext-dev libgl1-mesa-dev libglu1-mesa-dev
 ```
 
+### Connect docker desktop ui with core
+
+```powershell
+sudo usermod -aG docker $USER
+```
+
+- start using only "docker"
+
+
 sudo apt install libudev-dev
 sudo apt install libopenal-dev
 sudo apt update
